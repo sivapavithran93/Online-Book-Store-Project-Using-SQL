@@ -1,5 +1,5 @@
-# **Online-Book-Store-Project-Using-SQL**
-🚀 Online Book Store - SQL Analysis 📚💻
+
+# *🚀 Online Book Store - SQL Analysis 📚💻*
 
 I recently worked on an Online Book Store Database project where I performed SQL queries to analyze book inventory, customer details, and order transactions. This project covers basic and advanced SQL queries to extract valuable insights from the dataset.
 
